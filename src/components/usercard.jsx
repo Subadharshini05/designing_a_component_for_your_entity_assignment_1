@@ -2,9 +2,9 @@ import React from "react";
 import profilePhoto from "../assets/images/profile.jpeg";
 const Usercard = () => {
 //   const profilePhoto = "https://via.placeholder.com/150";
-  const name = "Vignesh Angamuthu";
-  const email = "vignesh.a.s76@kalvium.community";
-  const phone = "+91 82200 00318";
+  const name = "Suba dharshini";
+  const email = "suba.dharshini.s76@kalvium.community";
+  const phone = "+91 63690 65055";
   const address = "Coimbatore";
 
   return (
